@@ -1,0 +1,29 @@
+.filmes{
+    padding-top: 12px
+}
+
+.efeito:hover{
+    transition: 1s;
+    transform: scale(1.05, 1.05);
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
+    filter:brightness(60%);
+
+}
+
+
+
+.efeitoCont{
+
+    transition-duration: .8s;
+}
+
+
+.contact-box{
+    padding-top: 50px;
+    margin-top:20px;
+    border-top: 2px solid rgb(8, 8, 8);
+}
